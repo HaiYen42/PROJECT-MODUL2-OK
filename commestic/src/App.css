@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.loginForm, .registerForm {
+    padding-top:80px;
+    padding-bottom: 100px;
+background-color: #EEEEEE;
+}
+
+    .table {
+        width: 100%;
+        text-align: center;
+    }
+    .table_header {
+        border: 1px solid black;
+        padding: 8px;
+    }
+    .table th, .table td{
+        border-collapse: collapse;
+        border: 1px solid black;
+    }
+    .iconreact {
+        font-size: 25px;
+        margin:5px 10px;
+        color: black;
+    }
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid gray;
+  text-align: left;
+  padding: 8px;
+  text-align: center
+}
+.tablecart{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 70%;
+    margin-left: 15%;
+}
+#btnBuy{
+    margin-left: 20px;
+    width: 200px;
+}
+#iconDelete{
+    font-size: x-large;
+    color: red;
+}
+#totalPrice{
+    font-weight: bolder;
+    font-size: x-large;
+    margin: 30px 50px ;
+    color: black;
+    display: flex;
+    gap: 20px;
+}
+.shopCart{
+    color: black;
+    font-size: x-large;
+    margin-top: 5px;
+}
+.loginIcon{
+    margin-right: 50px;
+}
+.modalBuy{
+    color: black;
+}
+#btnbuy{
+    background-color: white;
+    color: black;
+}
+#btnbuy:hover{
+    background-color: rgb(236, 214, 139);
+}
+.heart{
+    color: red;
+    font-size: larger;
+}

@@ -1,0 +1,29 @@
+{
+  "listuser": [
+    {
+      "id": 1,
+      "email": "user123@gmail.com",
+      "password": "123123"
+    },
+    {
+      "id": 2,
+      "email": "user345@gmail.com",
+      "password": "123123"
+    },
+    {
+      "email": "vietanhdz@gmail.com",
+      "password": "123123",
+      "id": 3
+    },
+    {
+      "email": "vietanhdz@gmail.com",
+      "password": "",
+      "id": 4
+    },
+    {
+      "email": "phuhoang@gmail.com",
+      "password": "123123",
+      "id": 5
+    }
+  ]
+}
